@@ -1,0 +1,707 @@
+{
+    "CME259H1": {
+        "title": "CME259H1 S: TECH IN SOCIETY & BIOSPHERE",
+        "class_info": {
+            "LEC0101": {
+                "day-time": "Monday 5:00 PM - 6:00 PM\nWednesday 5:00 PM - 6:00 PM",
+                "location": "WB116\nWB116",
+                "instructor": "Robert Irish",
+                "availability": "23 of 150",
+                "delivery-mode": "In Person"
+            },
+            "TUT0104": {
+                "day-time": "Thursday 4:00 PM - 6:00 PM",
+                "location": "BA2165",
+                "instructor": "TBA",
+                "availability": "3 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT0105": {
+                "day-time": "Thursday 4:00 PM - 6:00 PM",
+                "location": "MY320",
+                "instructor": "TBA",
+                "availability": "2 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT0106": {
+                "day-time": "Thursday 4:00 PM - 6:00 PM",
+                "location": "BA2195",
+                "instructor": "TBA",
+                "availability": "11 of 25",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "TEP281H1": {
+        "title": "TEP281H1 S: LANGUAGE AND MEANING",
+        "class_info": {
+            "LEC0101": {
+                "day-time": "Monday 6:00 PM - 8:00 PM",
+                "location": "BA2195",
+                "instructor": "Penny Kinnear",
+                "availability": "40 of 40",
+                "delivery-mode": "In Person"
+            },
+            "TUT0101": {
+                "day-time": "Thursday 6:00 PM - 8:00 PM",
+                "location": "BA2195",
+                "instructor": "TBA",
+                "availability": "40 of 40",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "TEP327H1": {
+        "title": "TEP327H1 S: ENGINEERING AND LAW",
+        "class_info": {
+            "LEC0101": {
+                "day-time": "Thursday 6:00 PM - 9:00 PM",
+                "location": "MY360",
+                "instructor": "Linda Phillips-Smith",
+                "availability": "40 of 40",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "APS420H1": {
+        "title": "APS420H1 S: Technology, Engineering and Global Development",
+        "class_info": {
+            "LEC0101": {
+                "day-time": "Monday 6:00 PM - 8:00 PM\nThursday 6:00 PM - 8:00 PM",
+                "location": "MY330\nMY330",
+                "instructor": "Ahmed Hammam Mahmoud",
+                "availability": "72 of 72",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "CLA201H1": {
+        "title": "CLA201H1 S: Latin & Greek in Scientific Terminology",
+        "class_info": {
+            "LEC0101": {
+                "day-time": "Monday 2:00 PM - 3:00 PM\nWednesday 2:00 PM - 3:00 PM\nFriday 2:00 PM - 3:00 PM",
+                "location": "TBA\nTBA\nTBA",
+                "instructor": "TBA",
+                "availability": "200 of 200",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "CLA230H1": {
+        "title": "CLA230H1 S: Introduction to Greek History",
+        "class_info": {
+            "LEC0101": {
+                "day-time": "Tuesday 9:30 AM - 11:00 AM\nThursday 9:30 AM - 11:00 AM",
+                "location": "TBA\nTBA",
+                "instructor": "TBA",
+                "availability": "150 of 150",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "EAS311H1": {
+        "title": "EAS311H1 S: A History of Japanese Monsters",
+        "class_info": {
+            "LEC5101": {
+                "day-time": "Wednesday 5:00 PM - 7:00 PM",
+                "location": "TBA",
+                "instructor": "Thomas Keirstead",
+                "availability": "45 of 45",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "FAH313H1": {
+        "title": "FAH313H1 S: Greek Myth in Ancient Art",
+        "class_info": {
+            "LEC5101": {
+                "day-time": "Monday 5:00 PM - 7:00 PM",
+                "location": "Online",
+                "instructor": "Bjoern Ewald",
+                "availability": "120 of 120",
+                "delivery-mode": "Online Synchronous"
+            }
+        }
+    },
+    "GGR329H1": {
+        "title": "GGR329H1 S: The Global Food System",
+        "class_info": {
+            "LEC5101": {
+                "day-time": "Thursday 6:00 PM - 8:00 PM",
+                "location": "Online",
+                "instructor": "TBA",
+                "availability": "89 of 90",
+                "delivery-mode": "Online Synchronous (In Person Final)"
+            }
+        }
+    },
+    "GGR339H1": {
+        "title": "GGR339H1 S: Urban Geography, Planning and Political Processes",
+        "class_info": {
+            "LEC5101": {
+                "day-time": "Monday 6:00 PM - 8:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "68 of 70",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "HIS244H1": {
+        "title": "HIS244H1 S: Early Modern Europe, 1648-1815",
+        "class_info": {
+            "LEC5101": {
+                "day-time": "Thursday 5:00 PM - 7:00 PM",
+                "location": "TBA",
+                "instructor": "Jennifer Mori",
+                "availability": "169 of 170",
+                "delivery-mode": "In Person"
+            },
+            "TUT0101": {
+                "day-time": "Wednesday 2:00 PM - 3:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "18 of 18",
+                "delivery-mode": "In Person"
+            },
+            "TUT0301": {
+                "day-time": "Wednesday 4:00 PM - 5:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "18 of 19",
+                "delivery-mode": "In Person"
+            },
+            "TUT0701": {
+                "day-time": "Thursday 4:00 PM - 5:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "19 of 19",
+                "delivery-mode": "In Person"
+            },
+            "TUT5101": {
+                "day-time": "Thursday 7:00 PM - 8:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "20 of 20",
+                "delivery-mode": "In Person"
+            },
+            "TUT5102": {
+                "day-time": "Thursday 7:00 PM - 8:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "20 of 20",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "HIS262H1": {
+        "title": "HIS262H1 S: Canada: A Short History of Here",
+        "class_info": {
+            "LEC5101": {
+                "day-time": "Wednesday 6:00 PM - 8:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "92 of 100",
+                "delivery-mode": "In Person"
+            },
+            "TUT0301": {
+                "day-time": "Thursday 4:00 PM - 5:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "20 of 20",
+                "delivery-mode": "In Person"
+            },
+            "TUT5101": {
+                "day-time": "Wednesday 8:00 PM - 9:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "16 of 20",
+                "delivery-mode": "In Person"
+            },
+            "TUT5201": {
+                "day-time": "Thursday 5:00 PM - 6:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "20 of 20",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "HIS371H1": {
+        "title": "HIS371H1 S: Canadian Political History",
+        "class_info": {
+            "LEC5101": {
+                "day-time": "Wednesday 6:00 PM - 8:00 PM",
+                "location": "TBA",
+                "instructor": "Steve Penfold",
+                "availability": "59 of 60",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "HIS389H1": {
+        "title": "HIS389H1 S: Topics in History",
+        "class_info": {
+            "LEC0101: 19th and 20th Century Ukraine": {
+                "day-time": "Tuesday 10:00 AM - 11:00 AM\nThursday 10:00 AM - 11:00 AM",
+                "location": "TBA\nTBA",
+                "instructor": "Paul Magocsi",
+                "availability": "45 of 45",
+                "delivery-mode": "In Person"
+            },
+            "LEC0301: Canadian Legal Histories": {
+                "day-time": "Friday 1:00 PM - 3:00 PM",
+                "location": "Online",
+                "instructor": "TBA",
+                "availability": "45 of 45",
+                "delivery-mode": "Online Synchronous"
+            }
+        }
+    },
+    "IRE260H1": {
+        "title": "IRE260H1 S: Organizational Behaviour",
+        "class_info": {
+            "LEC0101": {
+                "day-time": "Asynchronous",
+                "location": "Online",
+                "instructor": "Alicia Eads",
+                "availability": "60 of 60",
+                "delivery-mode": "Online Asynchronous"
+            }
+        }
+    },
+    "ITA332H1": {
+        "title": "ITA332H1 S: Love in the Renaissance",
+        "class_info": {
+            "LEC0101": {
+                "day-time": "Tuesday 2:00 PM - 4:00 PM",
+                "location": "TBA",
+                "instructor": "Manuela Scarci",
+                "availability": "40 of 40",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "LIN200H1": {
+        "title": "LIN200H1 S: Introduction to Language",
+        "class_info": {
+            "LEC2501": {
+                "day-time": "Thursday 5:00 PM - 7:00 PM",
+                "location": "TBA",
+                "instructor": "Marisa Brook",
+                "availability": "35 of 35",
+                "delivery-mode": "In Person"
+            },
+            "LEC5101": {
+                "day-time": "Thursday 5:00 PM - 7:00 PM",
+                "location": "TBA",
+                "instructor": "Marisa Brook",
+                "availability": "240 of 240",
+                "delivery-mode": "In Person"
+            },
+            "TUT0201": {
+                "day-time": "Wednesday 2:00 PM - 3:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "35 of 35",
+                "delivery-mode": "In Person"
+            },
+            "TUT0202": {
+                "day-time": "Wednesday 2:00 PM - 3:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "35 of 35",
+                "delivery-mode": "In Person"
+            },
+            "TUT0401": {
+                "day-time": "Wednesday 4:00 PM - 5:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "35 of 35",
+                "delivery-mode": "In Person"
+            },
+            "TUT5101": {
+                "day-time": "Wednesday 5:00 PM - 6:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "35 of 35",
+                "delivery-mode": "In Person"
+            },
+            "TUT5102": {
+                "day-time": "Wednesday 5:00 PM - 6:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "35 of 35",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "MUS306H1": {
+        "title": "MUS306H1 S: Popular Music in North America",
+        "class_info": {
+            "LEC0101": {
+                "day-time": "Thursday 9:00 AM - 11:00 AM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "299 of 300",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "NMC252H1": {
+        "title": "NMC252H1 S: Hebrew Bible",
+        "class_info": {
+            "LEC0101": {
+                "day-time": "Wednesday 4:00 PM - 5:00 PM",
+                "location": "Online",
+                "instructor": "Robert Holmstedt",
+                "availability": "20 of 20",
+                "delivery-mode": "Online Synchronous"
+            }
+        }
+    },
+    "PHL243H1": {
+        "title": "PHL243H1 S: Philosophy of Human Sexuality",
+        "class_info": {
+            "LEC5101": {
+                "day-time": "Wednesday 6:00 PM - 9:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "198 of 200",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "PHL271H1": {
+        "title": "PHL271H1 S: Law and Morality",
+        "class_info": {
+            "LEC5101": {
+                "day-time": "Monday 6:00 PM - 8:00 PM",
+                "location": "TBA",
+                "instructor": "David Dyzenhaus",
+                "availability": "299 of 300",
+                "delivery-mode": "In Person"
+            },
+            "TUT5101": {
+                "day-time": "Wednesday 6:00 PM - 7:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "24 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT5102": {
+                "day-time": "Wednesday 6:00 PM - 7:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT5103": {
+                "day-time": "Wednesday 6:00 PM - 7:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT5104": {
+                "day-time": "Wednesday 6:00 PM - 7:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT5201": {
+                "day-time": "Wednesday 7:00 PM - 8:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT5202": {
+                "day-time": "Wednesday 7:00 PM - 8:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT5203": {
+                "day-time": "Wednesday 7:00 PM - 8:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT5204": {
+                "day-time": "Wednesday 7:00 PM - 8:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT5301": {
+                "day-time": "Wednesday 8:00 PM - 9:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT5302": {
+                "day-time": "Wednesday 8:00 PM - 9:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT5303": {
+                "day-time": "Wednesday 8:00 PM - 9:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT5304": {
+                "day-time": "Wednesday 8:00 PM - 9:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "PHL295H1": {
+        "title": "PHL295H1 S: Business Ethics",
+        "class_info": {
+            "LEC5101": {
+                "day-time": "Thursday 6:00 PM - 9:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "120 of 120",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "PHL355H1": {
+        "title": "PHL355H1 S: Philosophy of Natural Science",
+        "class_info": {
+            "LEC5101": {
+                "day-time": "Monday 6:00 PM - 9:00 PM",
+                "location": "TBA",
+                "instructor": "Franz Huber",
+                "availability": "35 of 35",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "POL208H1": {
+        "title": "POL208H1 S: Introduction to International Relations",
+        "class_info": {
+            "LEC5101": {
+                "day-time": "Monday 6:00 PM - 8:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "348 of 350",
+                "delivery-mode": "In Person"
+            },
+            "TUT0401": {
+                "day-time": "Tuesday 2:00 PM - 3:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            },
+            "TUT0801": {
+                "day-time": "Wednesday 2:00 PM - 3:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "RLG304H1": {
+        "title": "RLG304H1 S: Language, Symbols, Self",
+        "class_info": {
+            "LEC0101": {
+                "day-time": "Thursday 4:00 PM - 6:00 PM",
+                "location": "TBA",
+                "instructor": "James DiCenso",
+                "availability": "40 of 40",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "CLT355H1": {
+        "title": "CLT355H1 S: Contemporary Celtic Cinema",
+        "class_info": {
+            "LEC5101": {
+                "day-time": "Monday 6:00 PM - 9:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "In Person"
+            }
+        }
+    },
+    "SOC100H1": {
+        "title": "SOC100H1 S: Introduction to Sociology",
+        "class_info": {
+            "LEC0201": {
+                "day-time": "Asynchronous",
+                "location": "Online",
+                "instructor": "Mitchell McIvor",
+                "availability": "200 of 200",
+                "delivery-mode": "Online Asynchronous"
+            },
+            "TUT0201": {
+                "day-time": "Monday 11:00 AM - 12:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "In Person"
+            },
+            "TUT0501": {
+                "day-time": "Monday 2:00 PM - 3:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "In Person"
+            },
+            "TUT0901": {
+                "day-time": "Tuesday 2:00 PM - 3:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "In Person"
+            },
+            "TUT1001": {
+                "day-time": "Tuesday 3:00 PM - 4:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "In Person"
+            },
+            "TUT1301": {
+                "day-time": "Thursday 9:00 AM - 10:00 AM",
+                "location": "Online",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "Online Synchronous"
+            },
+            "TUT5101": {
+                "day-time": "Wednesday 6:00 PM - 7:00 PM",
+                "location": "Online",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "Online Synchronous"
+            },
+            "TUT5201": {
+                "day-time": "Wednesday 7:00 PM - 8:00 PM",
+                "location": "Online",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "Online Synchronous"
+            },
+            "TUT5301": {
+                "day-time": "Thursday 5:00 PM - 6:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "In Person"
+            },
+            "TUT5401": {
+                "day-time": "Thursday 6:00 PM - 7:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "In Person"
+            },
+            "TUT1401": {
+                "day-time": "Thursday 10:00 AM - 11:00 AM",
+                "location": "Online",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "Online Synchronous"
+            }
+        }
+    },
+    "SOC150H1": {
+        "title": "SOC150H1 S: Sociological Inquiries",
+        "class_info": {
+            "LEC0201": {
+                "day-time": "Asynchronous",
+                "location": "Online",
+                "instructor": "Mitchell McIvor",
+                "availability": "200 of 200",
+                "delivery-mode": "Online Asynchronous"
+            },
+            "TUT0201": {
+                "day-time": "Monday 11:00 AM - 12:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "In Person"
+            },
+            "TUT0501": {
+                "day-time": "Monday 2:00 PM - 3:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "In Person"
+            },
+            "TUT0901": {
+                "day-time": "Tuesday 2:00 PM - 3:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "In Person"
+            },
+            "TUT1001": {
+                "day-time": "Tuesday 3:00 PM - 4:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "In Person"
+            },
+            "TUT1301": {
+                "day-time": "Thursday 9:00 AM - 10:00 AM",
+                "location": "Online",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "Online Synchronous"
+            },
+            "TUT1401": {
+                "day-time": "Thursday 10:00 AM - 11:00 AM",
+                "location": "Online",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "Online Synchronous"
+            },
+            "TUT5101": {
+                "day-time": "Wednesday 6:00 PM - 7:00 PM",
+                "location": "Online",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "Online Synchronous"
+            },
+            "TUT5201": {
+                "day-time": "Wednesday 7:00 PM - 8:00 PM",
+                "location": "Online",
+                "instructor": "TBA",
+                "availability": "50 of 50",
+                "delivery-mode": "Online Synchronous"
+            }
+        }
+    },
+    "SPA385H1": {
+        "title": "SPA385H1 S: Literature and Social Change in Spanish America",
+        "class_info": {
+            "LEC0101": {
+                "day-time": "Thursday 4:00 PM - 6:00 PM",
+                "location": "TBA",
+                "instructor": "TBA",
+                "availability": "25 of 25",
+                "delivery-mode": "In Person"
+            }
+        }
+    }
+}

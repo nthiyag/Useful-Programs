@@ -1,0 +1,36 @@
+TEP281H1 S: LANGUAGE AND MEANING
+TEP327H1 S: ENGINEERING AND LAW
+APS420H1 S: Technology, Engineering and Global Development
+CLA201H1 S: Latin & Greek in Scientific Terminology
+/ CLA230H1 S: Introduction to Greek History
+GGR329H1 S: The Global Food System
+GGR339H1 S: Urban Geography, Planning and Political Processes
+/ HIS244H1 S: Early Modern Europe, 1648-1815
+/ HIS262H1 S: Canada: A Short History of Here
+/ ITA332H1 S: Love in the Renaissance
+LIN200H1 S: Introduction to Language
+/ MUS306H1 S: Popular Music in North America
+/ NMC252H1 S: Hebrew Bible
+/ PHL243H1 S: Philosophy of Human Sexuality
+PHL271H1 S: Law and Morality
+PHL295H1 S: Business Ethics
+/ POL208H1 S: Introduction to International Relations
+/ RLG304H1 S: Language, Symbols, Self
+/ CLT355H1 S: Contemporary Celtic Cinema
+SOC100H1 S: Introduction to Sociology
+
+
+CLA201H1 S: Latin & Greek in Scientific Terminology
+LIN200H1 S: Introduction to Language
+
+TEP281H1 S: LANGUAGE AND MEANING
+TEP327H1 S: ENGINEERING AND LAW
+APS420H1 S: Technology, Engineering and Global Development
+
+
+GGR339H1 S: Urban Geography, Planning and Political Processes
+CLA230H1 S: Introduction to Greek History
+GGR329H1 S: The Global Food System
+PHL271H1 S: Law and Morality
+PHL295H1 S: Business Ethics
+SOC100H1 S: Introduction to Sociology
