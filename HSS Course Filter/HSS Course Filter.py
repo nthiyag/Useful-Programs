@@ -10,11 +10,11 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions
 import chromedriver_autoinstaller
 
-APPROVED_PDF = "Faculty-approved-HSS-list-as-of-January-19-2022.pdf"
+APPROVED_PDF = "Faculty-approved-HSS-list-as-of-July-7-2022.pdf"
 TTB = "https://ttb.utoronto.ca/"
-COURSE_INFO_JSON = "courses_info.json"
-FILTERED_COURSE_INFO_JSON = "filtered_courses_info.json"
-USER_SCHEDULE_CSV = "User_Schedule.csv"
+COURSES_INFO_JSON = "courses_info.json"
+FILTERED_COURSES_INFO_JSON = "filtered_courses_info.json"
+USER_SCHEDULE_CSV = "user_schedule.csv"
 
 EMPTY_SLOT_CHAR = '0'
 
@@ -117,12 +117,12 @@ def extract_pdf_approved_courses():
 def prepare_courses_info_json():
     courses_info = retrieve_ttb_course_data(extract_pdf_approved_courses())
 
-    courses_info_save_file = open(COURSE_INFO_JSON, "w")
+    courses_info_save_file = open(COURSES_INFO_JSON, "w")
     json.dump(courses_info, courses_info_save_file, indent=4)
     courses_info_save_file.close()
 
 def load_courses_info_json():
-    courses_info_save_file = open(COURSE_INFO_JSON, "r")
+    courses_info_save_file = open(COURSES_INFO_JSON, "r")
     courses_info_json = json.loads(courses_info_save_file.read())
     courses_info_save_file.close()
 
@@ -178,7 +178,7 @@ def interpret_day_time(day_time_str):
 
 def determine_course_schedule_compatibility(schedule, course_info):
     attendable_course_class_codes_by_type = {"LEC": None, "TUT": None, "PRA": None}
-    for course_class_code in course_info["class_info"]:        
+    for course_class_code in course_info["class_info"]:
         try:
             interpreted_days_times = [interpret_day_time(day_time_str) for day_time_str in course_info["class_info"][course_class_code]["day-time"].split("\n")]
         except:
@@ -227,7 +227,7 @@ def filter_courses_by_schedule(schedule, courses_info):
 def prepare_filtered_courses_info_json(courses_info):
     filtered_courses_info = filter_courses_by_schedule(get_user_schedule(), courses_info)
 
-    filtered_courses_info_save_file = open(FILTERED_COURSE_INFO_JSON, "w")
+    filtered_courses_info_save_file = open(FILTERED_COURSES_INFO_JSON, "w")
     json.dump(filtered_courses_info, filtered_courses_info_save_file, indent=4)
     filtered_courses_info_save_file.close()
 
@@ -236,7 +236,7 @@ def prepare_filtered_courses_info_json(courses_info):
     for course in filtered_courses_info:
         print(filtered_courses_info[course]["title"])
 
-#prepare_courses_info_json()
+prepare_courses_info_json()
 
 courses_info = load_courses_info_json()
 
