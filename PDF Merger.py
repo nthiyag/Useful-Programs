@@ -1,7 +1,7 @@
 from PyPDF2 import PdfFileMerger
 import pathlib
 
-read_dir = "C:\\Users\\nikhi\\Desktop\\Useful Programs\\PDFs"
+read_dir = "PDFs"
 
 merger = PdfFileMerger()
 

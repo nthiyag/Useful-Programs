@@ -2,7 +2,7 @@ import pdf2image
 import PIL
 import pathlib
 
-read_dir = "C:\\Users\\nikhi\\Desktop\\Useful Programs\\PDFs"
+read_dir = "PDFs"
 
 processed_img_list = []
 
